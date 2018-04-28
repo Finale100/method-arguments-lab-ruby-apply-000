@@ -1,6 +1,6 @@
 # Method Arguments Lab
 
-## Objectives
+## Objectivesddfd
 
 1. Define a method that takes in an argument and uses that argument in the method body. 
 2. Define a method that takes in two arguments and uses both arguments in the method body. 
